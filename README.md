@@ -1,5 +1,4 @@
 ### Hi, I'm **Ahmad Izza** 👋
-![Banner](https://via.placeholder.com/1000x250?text=Data+Science+%7C+Machine+Learning+%7C+Mathematics)
 
 Math Student | Data & Machine Learning Enthusiast  
 Focused on data analytics, modeling, and building practical machine learning solutions.
@@ -44,35 +43,20 @@ Always learning, iterating, and improving.
 ## Skills
 
 ### Data & Machine Learning
-- Data Cleaning, Exploratory Data Analysis  
-- Data Visualization & Storytelling  
-- Machine Learning: Classification, Regression  
-- Deep Learning: CNN, RNN, LSTM  
-- NLP: Text preprocessing, sentiment analysis  
+Data Cleaning · Exploratory Data Analysis · Data Visualization · Statistical Analysis ·
+Machine Learning (Classification, Regression) · Deep Learning (CNN, RNN, LSTM) ·
+NLP (Text Preprocessing, Sentiment Analysis)
 
 ### Mathematics & Statistics
-- Probability & Statistics  
-- Multivariate Statistics  
-- Mathematical Modeling  
-- Categorical Data Analysis  
+Probability · Multivariate Statistics · Mathematical Modeling · Categorical Data Analysis 
 
 ### Soft Skills
-- Analytical Thinking  
-- Problem Solving  
-- Communication  
-- Teamwork  
-- Time Management  
+Analytical Thinking · Problem Solving · Communication · Teamwork · Time Management
 
 ---
 
 ## Tech Stack Overview
-Python · R · SQL  
-Pandas · NumPy · Scikit-Learn  
-TensorFlow · Keras  
-Google Colab · Jupyter Notebook  
-Looker Studio  
-Git · GitHub  
-
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" /> </p>
 ---
 
 ## Socials
