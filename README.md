@@ -65,26 +65,6 @@ Always learning, iterating, and improving.
 
 ---
 
-## Pinned Projects
-
-### 1. **Tweet Classification for Disaster Information**
-Classification of disaster-related tweets using Naive Bayes and Logistic Regression.  
-[GitHub Repository](#)
-
-### 2. **Public Sentiment Analysis on Advan Brand**
-Analyzing public sentiment and brand perception using YouTube & social media comments.  
-[GitHub Repository](#)
-
-### 3. **IMDB Review Sentiment Analysis — RNN vs. LSTM**
-Comparison of RNN and LSTM performance in sentiment classification.  
-[GitHub Repository](#)
-
-### 4. **CNN for CIFAR-10 Image Classification**
-Building and tuning a CNN model for 10-class image classification.  
-[GitHub Repository](#)
-
----
-
 ## Tech Stack Overview
 Python · R · SQL  
 Pandas · NumPy · Scikit-Learn  
@@ -96,7 +76,6 @@ Git · GitHub
 ---
 
 ## Socials
-LinkedIn: https://linkedin.com/in/  
-Kaggle: https://kaggle.com/  
-Email: yourname@email.com  
+LinkedIn: www.linkedin.com/in/ahmad-izza-5abb05203 
+Email: ahmadizza013@gmail.com  
 
