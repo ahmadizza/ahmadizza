@@ -1,16 +1,11 @@
 ### Hi, I'm **Ahmad Izza** 👋
 
-Math Student | Data & Machine Learning Enthusiast  
-Focused on data analytics, modeling, and building practical machine learning solutions.
-
----
-
-## About Me
 I am a 7th-semester Mathematics student specializing in Data Science, with experience in data analysis, machine learning, and deep learning. I enjoy working with real-world datasets, turning raw information into insights through exploratory analysis, modeling, and clear data storytelling. I have completed various academic, research, and competition projects using Python, SQL, and analytical tools.
 
 I am currently developing my skills in NLP, deep learning, and statistical modeling, and I aim to pursue a career as a data analyst, data scientist, or researcher in data-driven environments.
 
 ---
+
 
 ## Badges
 ### Languages & Frameworks
