@@ -6,7 +6,6 @@ I am currently developing my skills in NLP, deep learning, and statistical model
 
 ---
 
-
 ## Badges
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
