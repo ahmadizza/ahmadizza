@@ -5,9 +5,10 @@ Focused on data analytics, modeling, and building practical machine learning sol
 
 ---
 
-## Summary
-I am a 7th-semester Mathematics undergraduate specializing in Data Science. I work with data exploration, statistics, machine learning, and deep learning, and enjoy applying analytical thinking to real-world problems. I actively build projects to strengthen my portfolio and prepare for a career in data science, business analytics, or research-driven environments.  
-Always learning, iterating, and improving.
+## About Me
+I am a 7th-semester Mathematics student specializing in Data Science, with experience in data analysis, machine learning, and deep learning. I enjoy working with real-world datasets, turning raw information into insights through exploratory analysis, modeling, and clear data storytelling. I have completed various academic, research, and competition projects using Python, SQL, and analytical tools.
+
+I am currently developing my skills in NLP, deep learning, and statistical modeling, and I aim to pursue a career as a data analyst, data scientist, or researcher in data-driven environments.
 
 ---
 
@@ -28,15 +29,7 @@ Always learning, iterating, and improving.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)
-
----
-
-## About Me
-- Mathematics undergraduate at UIN Syarif Hidayatullah Jakarta  
-- Experienced with Python, SQL, R, and ML/DL frameworks  
-- Interested in NLP, deep learning, and applied data science  
-- Comfortable conducting EDA, modeling, and visualization  
-- Actively building projects for a strong data portfolio  
+ 
 
 ---
 
@@ -60,6 +53,6 @@ Analytical Thinking · Problem Solving · Communication · Teamwork · Time Mana
 ---
 
 ## Socials
-LinkedIn: www.linkedin.com/in/ahmad-izza-5abb05203 
-Email: ahmadizza013@gmail.com  
+*LinkedIn: www.linkedin.com/in/ahmad-izza-5abb05203 
+*Email: ahmadizza013@gmail.com  
 
